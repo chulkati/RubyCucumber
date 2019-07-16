@@ -24,7 +24,7 @@ Feature: Login Paypal
 
        Examples:
          | username                          | password |
-         |asish79@gmail.com                  | abriti2012|
+         |asish79@gmail.com                  | jul123|
 
    Scenario Outline: Login to paypal website correct password
     Given I am on paypal website
